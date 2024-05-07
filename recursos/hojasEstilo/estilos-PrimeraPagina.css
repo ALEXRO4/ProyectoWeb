@@ -1,0 +1,21 @@
+nav{
+    padding-bottom: 70px;
+    background-color: #37474f;
+}
+
+.titulo_principal{
+    text-align: center;
+    margin-right: 200px;
+    font-size: 35px;
+}
+
+
+.barra_central{
+    
+    margin-top: 40px;
+    text-align: justify;
+}
+
+body{
+    background-color: #e0e0e0;
+}
