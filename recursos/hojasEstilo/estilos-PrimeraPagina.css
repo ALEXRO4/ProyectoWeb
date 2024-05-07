@@ -9,7 +9,21 @@ nav{
     font-size: 35px;
 }
 
-
+.barra_lateral{
+    background-color:#d7ccc8   ;
+    padding-bottom: 350px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    border-radius: 20px;
+    
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);
+    
+}
+.logo_lateral{
+    padding-left: 40px;
+    
+}
 .barra_central{
     
     margin-top: 40px;
