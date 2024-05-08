@@ -2,6 +2,7 @@ nav{
     padding-bottom: 70px;
     background-color: #37474f;
     margin-bottom: 25px;
+    padding-left: 20px;
 }
 
 .titulo_principal{
@@ -12,7 +13,7 @@ nav{
 
 .barra_lateral{
     background-color:#d7ccc8   ;
-    padding-bottom: 135px;
+    padding-bottom: 120px;
     padding-left: 10px;
     padding-right: 10px;
     text-align: justify;
