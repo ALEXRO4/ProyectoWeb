@@ -1,6 +1,7 @@
 nav{
     padding-bottom: 70px;
     background-color: #37474f;
+    margin-bottom: 25px;
 }
 
 .titulo_principal{
@@ -11,7 +12,7 @@ nav{
 
 .barra_lateral{
     background-color:#d7ccc8   ;
-    padding-bottom: 350px;
+    padding-bottom: 135px;
     padding-left: 10px;
     padding-right: 10px;
     text-align: justify;
@@ -21,7 +22,8 @@ nav{
     
 }
 .logo_lateral{
-    padding-left: 40px;
+    padding-left: 60px;
+    
     
 }
 .barra_central{
@@ -32,4 +34,21 @@ nav{
 
 body{
     background-color: #e0e0e0;
+   }
+
+.carta_izquierda{
+    
+    padding-left: 10px;
+}
+
+.card{
+    border-radius: 10px;
+    text-align: justify;
+}
+
+h3{
+   
+    font-size: 50px;   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
