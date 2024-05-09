@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="shortcut icon" href="recursos/Media/logo-removebg-preview.png" type="image/x-icon">
     <title>INICIO</title>
+
+    
   </head>
 
   <body>
@@ -69,7 +71,7 @@
     <div class="col s12 m8 l9"> 
 <!-- aqui es el lado de la derecha -->
         <section class="barra_central">
-         <h3>Busca tu coche ideal!!</h3>
+         <h3>Nuestros Modelos:</h3>
 
           
 <section>

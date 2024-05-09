@@ -15,6 +15,6 @@ mysqli_set_charset($conexion,'utf8');
 
         )");
         echo "<br> <h1>Usuario creado con exito</h1>";
-        echo "<a href='./index.html'>Puedes generar un Nuevo registro</a>";
+        echo "<a href='./index.php'>Puedes generar un Nuevo registro</a>";
 
 
