@@ -9,15 +9,13 @@ USE `velocimotor`;
 -- Crear un tabla
 
 CREATE TABLE `cita`(
-
+`id` int auto_increment PRIMARY KEY not null,
 `nombre` text not null,
 `email` text not null,
 `phone` int (10) not null,
 `fecha` text not null,
 `descripcion` text ,
-`fecha_registro` datetime not null default current_timestamp,
-`id` int (10) not null
+`fecha_registro` datetime not null default current_timestamp
+
 ) engine=Innodb default charset=utf8;
 
-alter table `cita`
-add primary key(`id`);
