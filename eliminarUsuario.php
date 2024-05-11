@@ -44,14 +44,14 @@
 
     <form  method="POST" action="deleteUsuario.php">
    
-    <section>
+   
   <div class="row">
     <div class="input-field col s12">
       <input id="eliminar" type="text" class="validate" style="text-align: center;" name="eliminar" required>
       <label for="eliminar" style="text-align: center;">Numero De Cita</label>
     </div>
   </div>
-</section>
+
 
   <center>
         <button class="btn waves-effect waves-light" type="submit" name="action">Borrar
@@ -71,6 +71,9 @@
         </p></div>
         <div class="col s12 m4 l2"><p></p></div>
       </div>
+
+
+
 
 
 

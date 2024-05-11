@@ -28,6 +28,7 @@ echo "<table border='2' >
 if ( $count>0 ){
     //aqui se pintarian los registro de la DB
     while( $row = mysqli_fetch_assoc($resultado)  ){
+    
      echo "<tr>";
      echo"<td>". $row['id'] ."</td>";
   
@@ -49,6 +50,7 @@ if ( $count>0 ){
     }
 
     echo "<h1><a href='EliminarUsuario.php'>ElimnarUsuario</a></h1>";
+    echo "<h1><a href='actualizarUsuario.php'>ActualizarUsuario</a></h1>";
     echo "<h1><a href='index.php'>Regresar</a></h1>";
 
 ?>
