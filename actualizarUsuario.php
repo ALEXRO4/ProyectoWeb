@@ -112,6 +112,7 @@
 <label for="descripcion" style="text-align: center;">Notas</label>
 </div>
 </div>
+<p class = "aviso"> Ingrese su nueva informacion y su numero de cita asignado para efectuar el cambio</p>
 </section>
 
 
@@ -123,14 +124,18 @@
 </div>
 
 
+
 <center>
 <button class="btn waves-effect waves-light" type="reset" name="reset">Limpiar
   <i class="material-icons right">brush</i>
 </button>
 
-<button class="btn waves-effect waves-light" type="submit" name="action">Submit
+<button class="btn waves-effect waves-light" type="submit" name="action">Actualizar
 <i class="material-icons right">send</i>
 </button>
+
+<br><br>
+<a href="verCitas.php">REGRESAR</a>
 </center>
 </form>
 
@@ -138,14 +143,6 @@
     </div>
     </p></div>
     <div class="col s12 m4 l2"><p>
-
-    
-
-      Rellene nuevamente los campos y ejecute el cambio antes de oprimir enviar 
-
-    
-
-
     </p></div>
   </div>
 

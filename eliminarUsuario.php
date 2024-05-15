@@ -56,7 +56,6 @@
   <center>
         <button class="btn waves-effect waves-light" type="submit" name="action">Borrar
           <i class="material-icons right">cancel</i>
-    
         
 
          <!--  <a href="index.php"><button class="btn waves-effect waves-light" type="button" name="action">Inicio
@@ -64,13 +63,14 @@
 
     </center>
     <br>
-      <a href="index.php">REGRESAR</a>
+      <a href="verCitas.php">REGRESAR</a>
       </form>
 
         </div>
         </p></div>
         <div class="col s12 m4 l2"><p></p></div>
       </div>
+      
 
 
 

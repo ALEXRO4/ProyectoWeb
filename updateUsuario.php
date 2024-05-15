@@ -21,5 +21,5 @@ mysqli_query($conexion, "UPDATE cita
                         WHERE  id =  '$id_actualizar'");
 
 echo "<br> <h1>Usuario actualizado con éxito</h1>";
-echo "<a href='./index.php'>Regresar</a>";
+echo "<a href='./verCita.php'>Regresar</a>";
 ?>

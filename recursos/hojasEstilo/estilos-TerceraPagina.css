@@ -41,3 +41,10 @@ button{
 body{
     background-color: #e0e0e0;
    }
+
+   .aviso{
+    text-align: center;
+    border: 10px;
+    border-color: red;
+    border-radius: 10px;
+   }
